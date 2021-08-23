@@ -1,0 +1,58 @@
+type = "Doom Builder Map Settings Configuration";
+gameconfig = "Doom2.cfg";
+strictpatches = 1;
+
+maps
+{
+	
+	MAP02
+	{
+		
+		plugins
+		{
+			
+			stairsectorbuilder
+			{
+				
+				prefabs
+				{
+				}
+				
+			}
+			
+		}
+		
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "D:\\Zandronum\\wads\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+		}
+		
+		
+		grid
+		{
+			background = "";
+			backsource = 0;
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			gridsize = 4;
+			gridrotate = 0f;
+			gridoriginx = 0f;
+			gridoriginy = 0f;
+		}
+		
+	}
+	
+}
+
