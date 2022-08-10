@@ -14,7 +14,7 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "C:\\Users\\yvesh\\Downloads\\gzdoom-4-5-0-Windows-64bit\\DOOM2.WAD";
+				location = "D:\\Zandronum\\wads\\DOOM2.WAD";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -29,10 +29,10 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 4f;
-			gridrotate = 0f;
-			gridoriginx = 0f;
-			gridoriginy = 0f;
+			gridsize = 2;
+			gridrotate = 0;
+			gridoriginx = 0;
+			gridoriginy = 0;
 		}
 		
 		plugins
@@ -47,7 +47,7 @@ maps
 					prefab1
 					{
 						name = "[Previous]";
-						numberofsectors = 4;
+						numberofsectors = 5;
 						outervertexmultiplier = 1;
 						innervertexmultiplier = 1;
 						stairtype = 0;
@@ -61,7 +61,7 @@ maps
 						flipping = 0;
 						numberofcontrolpoints = 1;
 						applyfloormod = true;
-						floormod = 8;
+						floormod = 0;
 						applyceilingmod = true;
 						ceilingmod = 0;
 						applyfloortexture = false;
@@ -98,8 +98,36 @@ maps
 		overridebrightness = false;
 		uselongtexturenames = false;
 		useresourcesinreadonlymode = false;
-		viewpositionx = 1.228668f;
-		viewpositiony = -293.3167f;
-		viewscale = 2.808956f;
+		viewpositionx = 146.9957f;
+		viewpositiony = 110.9883f;
+		viewscale = 2.971521f;
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
 	}
 }
