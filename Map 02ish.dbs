@@ -10,6 +10,15 @@ maps
 		
 		resources
 		{
+			
+			resource0
+			{
+				type = 0;
+				location = "D:\\Zandronum\\wads\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
 		}
 		
 		grid
@@ -20,7 +29,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 2;
+			gridsize = 4;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
@@ -42,7 +51,7 @@ maps
 						outervertexmultiplier = 1;
 						innervertexmultiplier = 1;
 						stairtype = 0;
-						sectordepth = 8;
+						sectordepth = 24;
 						spacing = 0;
 						frontside = false;
 						singlesectors = true;
@@ -52,7 +61,7 @@ maps
 						flipping = 0;
 						numberofcontrolpoints = 1;
 						applyfloormod = true;
-						floormod = 0;
+						floormod = 8;
 						applyceilingmod = true;
 						ceilingmod = 0;
 						applyfloortexture = false;
@@ -89,9 +98,9 @@ maps
 		overridebrightness = false;
 		uselongtexturenames = false;
 		useresourcesinreadonlymode = false;
-		viewpositionx = 97.19441f;
-		viewpositiony = -109.3082f;
-		viewscale = 11.03303f;
+		viewpositionx = 64.96262f;
+		viewpositiony = 831.0439f;
+		viewscale = 2.971515f;
 		
 		reloadresourceprecommand
 		{
