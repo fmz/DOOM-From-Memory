@@ -98,9 +98,9 @@ maps
 		overridebrightness = false;
 		uselongtexturenames = false;
 		useresourcesinreadonlymode = false;
-		viewpositionx = 194.7374f;
-		viewpositiony = 677.7081f;
-		viewscale = 0.8442187f;
+		viewpositionx = -86.93974f;
+		viewpositiony = -98.5778f;
+		viewscale = 1.097484f;
 		
 		reloadresourceprecommand
 		{
