@@ -31,9 +31,9 @@ maps
 		}
 		defaultfloortexture = "FLOOR6_2";
 		defaultceiltexture = "F_SKY1";
-		defaulttoptexture = "STARTAN2";
-		defaultwalltexture = "STARTAN2";
-		defaultbottomtexture = "STARTAN2";
+		defaulttoptexture = "OSTONG91";
+		defaultwalltexture = "OSTONG91";
+		defaultbottomtexture = "OSTONG91";
 		custombrightness = 196;
 		customfloorheight = 0;
 		customceilheight = 128;
@@ -46,9 +46,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = -233.6519f;
-		viewpositiony = -395.0805f;
-		viewscale = 1.461915f;
+		viewpositionx = -463.7559f;
+		viewpositiony = -275.7073f;
+		viewscale = 1.12455f;
 		
 		grid
 		{
@@ -58,7 +58,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 8;
+			gridsize = 4;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
