@@ -14,7 +14,7 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "D:\\Zandronum\\wads\\DOOM2.WAD";
+				location = "C:\\Users\\yvesh\\Downloads\\GZDoom 4.7.1\\Wads\\Eviternity.wad";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -23,7 +23,7 @@ maps
 			resource1
 			{
 				type = 0;
-				location = "D:\\Zandronum\\wads\\Eviternity.wad";
+				location = "C:\\Users\\yvesh\\Documents\\GitHub\\DOOM-From-Memory\\OTEX_Config\\OTEX_1.1.WAD";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -46,9 +46,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = 1292.984f;
-		viewpositiony = 679.3842f;
-		viewscale = 0.5118586f;
+		viewpositionx = 2326.469f;
+		viewpositiony = -2963.775f;
+		viewscale = 0.1792147f;
 		
 		grid
 		{
@@ -58,7 +58,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 16;
+			gridsize = 4;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
@@ -90,6 +90,52 @@ maps
 			autocloseonsuccess = true;
 			exitcodeiserror = true;
 			stderriserror = true;
+		}
+		
+		plugins
+		{
+			
+			stairsectorbuilder
+			{
+				
+				prefabs
+				{
+					
+					prefab1
+					{
+						name = "[Previous]";
+						numberofsectors = 4;
+						outervertexmultiplier = 1;
+						innervertexmultiplier = 1;
+						stairtype = 0;
+						sectordepth = 32;
+						spacing = 0;
+						frontside = false;
+						singlesectors = true;
+						distinctsectors = false;
+						singledirection = true;
+						distinctbaseheights = true;
+						flipping = 0;
+						numberofcontrolpoints = 1;
+						applyfloormod = true;
+						floormod = 16;
+						applyceilingmod = true;
+						ceilingmod = 16;
+						applyfloortexture = false;
+						floortexture = "";
+						applyceilingtexture = false;
+						ceilingtexture = "";
+						applyuppertexture = true;
+						uppertexture = "-";
+						upperunpegged = true;
+						applymiddletexture = false;
+						middletexture = "-";
+						applylowertexture = true;
+						lowertexture = "-";
+						lowerunpegged = true;
+					}
+				}
+			}
 		}
 	}
 }

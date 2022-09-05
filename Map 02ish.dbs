@@ -10,15 +10,6 @@ maps
 		
 		resources
 		{
-			
-			resource0
-			{
-				type = 0;
-				location = "D:\\Zandronum\\wads\\DOOM2.WAD";
-				option1 = 0;
-				option2 = 0;
-				notfortesting = 0;
-			}
 		}
 		
 		grid
@@ -98,9 +89,9 @@ maps
 		overridebrightness = false;
 		uselongtexturenames = false;
 		useresourcesinreadonlymode = false;
-		viewpositionx = -86.93974f;
-		viewpositiony = -98.5778f;
-		viewscale = 1.097484f;
+		viewpositionx = 19.03073f;
+		viewpositiony = 266.4759f;
+		viewscale = 6.886542f;
 		
 		reloadresourceprecommand
 		{
