@@ -14,19 +14,21 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "C:\\Games\\gzdoom-4-5-0-Windows-64bit\\wads\\DOOM2.WAD";
+				location = "D:\\Zandronum\\wads\\DOOM2.WAD";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
+				requiredarchives = "";
 			}
 			
 			resource1
 			{
 				type = 0;
-				location = "C:\\Games\\gzdoom-4-5-0-Windows-64bit\\wads\\Eviternity.wad";
+				location = "D:\\Zandronum\\wads\\Eviternity.wad";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
+				requiredarchives = "";
 			}
 		}
 		defaultfloortexture = "FLOOR6_2";
@@ -46,9 +48,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = 510.5906f;
-		viewpositiony = 116.4451f;
-		viewscale = 0.3642747f;
+		viewpositionx = -194.7531f;
+		viewpositiony = 1678.516f;
+		viewscale = 1.124546f;
 		
 		grid
 		{
@@ -58,7 +60,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 8;
+			gridsize = 16;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
@@ -135,6 +137,15 @@ maps
 						lowerunpegged = true;
 					}
 				}
+			}
+		}
+		
+		selectiongroups
+		{
+			
+			0
+			{
+				linedefs = "212 320 1131 1135 1138 1140 1141 1142 1143 1145 1146 1148 1149 1150 1151 1152 1154 1155 1156 1158 1160 1161 1163 1164 1166 1167 1168 1174 1175 1176 1177 1178 1179 1180 1181 1182 1183 1297 1299";
 			}
 		}
 	}
