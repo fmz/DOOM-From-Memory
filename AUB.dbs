@@ -48,9 +48,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = -194.7531f;
-		viewpositiony = 1678.516f;
-		viewscale = 1.124546f;
+		viewpositionx = -1009.827f;
+		viewpositiony = 3314.411f;
+		viewscale = 0.3937326f;
 		
 		grid
 		{
@@ -60,7 +60,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 16;
+			gridsize = 4;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
@@ -145,7 +145,7 @@ maps
 			
 			0
 			{
-				linedefs = "212 320 1131 1135 1138 1140 1141 1142 1143 1145 1146 1148 1149 1150 1151 1152 1154 1155 1156 1158 1160 1161 1163 1164 1166 1167 1168 1174 1175 1176 1177 1178 1179 1180 1181 1182 1183 1297 1299";
+				linedefs = "212 1131 1135 1138 1140 1141 1142 1143 1145 1146 1160 1161 1164 1167 1174 1175 1176 1177 1178 1179 1180 1181 1182 1299";
 			}
 		}
 	}
