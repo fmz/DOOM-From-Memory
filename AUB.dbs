@@ -48,9 +48,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = -199.7168f;
-		viewpositiony = 2713.092f;
-		viewscale = 1.4619f;
+		viewpositionx = 577.5132f;
+		viewpositiony = 2792.798f;
+		viewscale = 1.758291f;
 		
 		grid
 		{
@@ -145,7 +145,7 @@ maps
 			
 			0
 			{
-				linedefs = "212 1131 1135 1138 1140 1141 1142 1143 1145 1146 1160 1161 1164 1167 1174 1175 1176 1177 1178 1179 1180 1181 1182 1299";
+				linedefs = "212 1131 1138 1140 1141 1142 1143 1145 1146 1160 1161 1164 1167 1174 1175 1176 1177 1178 1179 1180 1181 1182 1299";
 			}
 		}
 	}
