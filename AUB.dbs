@@ -14,21 +14,10 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "D:\\Zandronum\\wads\\DOOM2.WAD";
+				location = "C:\\Users\\yvesh\\Downloads\\GZDoom 4.7.1\\Wads\\Eviternity.wad";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
-				requiredarchives = "";
-			}
-			
-			resource1
-			{
-				type = 0;
-				location = "D:\\Zandronum\\wads\\Eviternity.wad";
-				option1 = 0;
-				option2 = 0;
-				notfortesting = 0;
-				requiredarchives = "";
 			}
 		}
 		defaultfloortexture = "FLOOR6_2";
@@ -48,9 +37,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = 3252.121f;
-		viewpositiony = -2791.788f;
-		viewscale = 0.6156239f;
+		viewpositionx = 11.1001f;
+		viewpositiony = 1367.868f;
+		viewscale = 0.03435094f;
 		
 		grid
 		{
