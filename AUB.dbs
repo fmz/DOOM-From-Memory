@@ -48,9 +48,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = -1952.232f;
-		viewpositiony = 256.357f;
-		viewscale = 0.4735596f;
+		viewpositionx = -420.1191f;
+		viewpositiony = 433.7191f;
+		viewscale = 0.3642758f;
 		
 		grid
 		{
@@ -60,7 +60,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 8;
+			gridsize = 4;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
@@ -106,17 +106,17 @@ maps
 					prefab1
 					{
 						name = "[Previous]";
-						numberofsectors = 1;
+						numberofsectors = 4;
 						outervertexmultiplier = 1;
 						innervertexmultiplier = 1;
 						stairtype = 0;
-						sectordepth = 96;
+						sectordepth = 16;
 						spacing = 0;
-						frontside = false;
-						singlesectors = true;
+						frontside = true;
+						singlesectors = false;
 						distinctsectors = false;
 						singledirection = false;
-						distinctbaseheights = true;
+						distinctbaseheights = false;
 						flipping = 0;
 						numberofcontrolpoints = 1;
 						applyfloormod = true;
