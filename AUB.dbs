@@ -14,7 +14,7 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "D:\\Zandronum\\wads\\DOOM2.WAD";
+				location = "C:\\Games\\gzdoom-4-5-0-Windows-64bit\\wads\\DOOM2.WAD";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -24,7 +24,7 @@ maps
 			resource1
 			{
 				type = 0;
-				location = "D:\\Zandronum\\wads\\Eviternity.wad";
+				location = "C:\\Games\\gzdoom-4-5-0-Windows-64bit\\wads\\Eviternity.wad";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -48,9 +48,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = 64.95367f;
-		viewpositiony = -1510.255f;
-		viewscale = 1.461919f;
+		viewpositionx = 26.21958f;
+		viewpositiony = 5670.625f;
+		viewscale = 1.900489f;
 		
 		grid
 		{
