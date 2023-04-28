@@ -48,9 +48,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = 178.1626f;
-		viewpositiony = 6301.894f;
-		viewscale = 1.461918f;
+		viewpositionx = -358.714f;
+		viewpositiony = 6196.782f;
+		viewscale = 9.173308f;
 		
 		grid
 		{
@@ -60,7 +60,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 4;
+			gridsize = 2;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
@@ -110,9 +110,9 @@ maps
 						outervertexmultiplier = 1;
 						innervertexmultiplier = 1;
 						stairtype = 0;
-						sectordepth = 32;
+						sectordepth = 4;
 						spacing = 0;
-						frontside = false;
+						frontside = true;
 						singlesectors = true;
 						distinctsectors = false;
 						singledirection = false;
